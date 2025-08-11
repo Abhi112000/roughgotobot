@@ -1,0 +1,17 @@
+{
+  "name": "gotobot-script",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "puppeteer": "^24.16.0"
+  }
+}
